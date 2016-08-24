@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotRPG.CSharp", "DotRPG.CSharp.csproj", "{4D7C5107-D09B-8EB0-565D-4888BDCC73C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotRPG.CSharp.Editor", "DotRPG.CSharp.Editor.csproj", "{75071C33-B5A7-B495-BE31-983F5900DD53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D7C5107-D09B-8EB0-565D-4888BDCC73C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D7C5107-D09B-8EB0-565D-4888BDCC73C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D7C5107-D09B-8EB0-565D-4888BDCC73C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D7C5107-D09B-8EB0-565D-4888BDCC73C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75071C33-B5A7-B495-BE31-983F5900DD53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75071C33-B5A7-B495-BE31-983F5900DD53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75071C33-B5A7-B495-BE31-983F5900DD53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75071C33-B5A7-B495-BE31-983F5900DD53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
