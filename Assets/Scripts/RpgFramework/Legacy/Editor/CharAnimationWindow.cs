@@ -91,7 +91,7 @@ namespace CreativeSpore.RpgMapEditor
                 while (m_walkAnimTimer <= 0f) m_walkAnimTimer += 1f;
                 m_walkAnimTimer %= 1;
             }
-            else if( Event.current.type == EventType.scrollWheel && m_rGridView.Contains(m_mousePos) )
+            else if( Event.current.type == EventType.ScrollWheel && m_rGridView.Contains(m_mousePos) )
             {
                 float prevZoom = m_zoom;
                 if (Event.current.delta.y > 0) // back
